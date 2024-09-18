@@ -38,7 +38,7 @@ public class CalculatorTest {
 
 	@Test
 	public void testDiv() {
-		assertTrue(cl.doDiv(8, 2) == 4);
+		assertTrue(cl.doDiv(8, 2) == 3);
 	}
 	@Test
 	public void testDiv2() {
